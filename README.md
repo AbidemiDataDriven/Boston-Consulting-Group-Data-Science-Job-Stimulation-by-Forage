@@ -1,4 +1,6 @@
 # Boston-Consulting-Group-Data-Science-Job-Stimulation-by-Forage
+![Unknown](https://github.com/user-attachments/assets/619e7034-e3dd-4353-aa63-3a48ac2f4d49)
+
 ## Task 1 - Business Understanding & Hypothesis Framing
 
 Understanding the business context and problem statement.
